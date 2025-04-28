@@ -58,5 +58,5 @@ The backend should now be running on http://localhost:8000.
  ### For frontend:
 Start the backend server:
 ```bash
-npm start
+npm run dev
 ```
